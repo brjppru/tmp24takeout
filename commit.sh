@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# git push tmp24 outdate
+# git push tmp24 takeout script
 
 dated=`date +%Y-%m-%d-%H%M%S`
 
